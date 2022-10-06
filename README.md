@@ -1,1 +1,1 @@
-# Spring JWT application
+#  Spring JWT application
